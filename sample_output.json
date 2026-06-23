@@ -1,0 +1,41 @@
+[
+  {
+    "basicUdi": "698021129RLTPW",
+    "primaryDi": "06980211292118",
+    "uuid": "3c64348f-04c2-4be4-92e2-4ac5bddc8186",
+    "deviceName": null,
+    "tradeName": "Rollator",
+    "riskClass": "refdata.risk-class.class-i",
+    "manufacturerName": "Hebei Huaen Medical Devices Co., Ltd.",
+    "manufacturerSrn": "CN-MF-000056467",
+    "authorisedRepresentativeName": null,
+    "deviceStatusType": "refdata.device-model-status.on-the-market",
+    "lastUpdateDate": null
+  },
+  {
+    "basicUdi": "69415580Medicalk12292K",
+    "primaryDi": "03665728012291",
+    "uuid": "0d74e417-ba07-48ef-9d55-377d05eb64da",
+    "deviceName": null,
+    "tradeName": null,
+    "riskClass": "refdata.risk-class.class-i",
+    "manufacturerName": "Allmed Medical Products Co.,Ltd",
+    "manufacturerSrn": "CN-MF-000007970",
+    "authorisedRepresentativeName": null,
+    "deviceStatusType": "refdata.device-model-status.on-the-market",
+    "lastUpdateDate": null
+  },
+  {
+    "basicUdi": "698021129RLTPW",
+    "primaryDi": "06980211292101",
+    "uuid": "79a2c387-9f17-412d-b2c3-16d74e5d8177",
+    "deviceName": null,
+    "tradeName": "Rollator",
+    "riskClass": "refdata.risk-class.class-i",
+    "manufacturerName": "Hebei Huaen Medical Devices Co., Ltd.",
+    "manufacturerSrn": "CN-MF-000056467",
+    "authorisedRepresentativeName": null,
+    "deviceStatusType": "refdata.device-model-status.on-the-market",
+    "lastUpdateDate": null
+  }
+]
