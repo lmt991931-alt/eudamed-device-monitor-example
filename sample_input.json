@@ -1,0 +1,9 @@
+{
+  "monitorSince": "2026-06-16",
+  "searchParams": {},
+  "maxItems": 200,
+  "pageSize": 100,
+  "fetchDetails": false,
+  "includePersonalData": false,
+  "languageIso2Code": "en"
+}
